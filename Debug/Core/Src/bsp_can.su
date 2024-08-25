@@ -1,0 +1,2 @@
+../Core/Src/bsp_can.c:12:6:bsp_can_init	8	static
+../Core/Src/bsp_can.c:42:6:can_data_decoder	4	static

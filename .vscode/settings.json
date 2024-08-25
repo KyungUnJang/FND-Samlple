@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "task.h": "c",
+        "bsp_can.h": "c",
+        "7segment.h": "c",
+        "main.h": "c"
+    }
+}

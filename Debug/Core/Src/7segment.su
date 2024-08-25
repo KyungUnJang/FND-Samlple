@@ -1,0 +1,5 @@
+../Core/Src/7segment.c:15:6:fnd_send	16	static
+../Core/Src/7segment.c:57:6:FND_init	8	static
+../Core/Src/7segment.c:64:6:FND_number	16	static
+../Core/Src/7segment.c:152:6:Error_code_Number	8	static
+../Core/Src/7segment.c:492:6:Error_code_dispay	8	static

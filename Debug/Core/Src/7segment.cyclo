@@ -1,0 +1,5 @@
+7segment.c:15:6:fnd_send	6
+7segment.c:57:6:FND_init	1
+7segment.c:64:6:FND_number	12
+7segment.c:152:6:Error_code_Number	69
+7segment.c:492:6:Error_code_dispay	1

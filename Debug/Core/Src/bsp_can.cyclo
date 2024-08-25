@@ -1,0 +1,2 @@
+bsp_can.c:12:6:bsp_can_init	1
+bsp_can.c:42:6:can_data_decoder	1
